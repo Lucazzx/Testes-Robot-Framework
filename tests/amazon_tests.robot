@@ -30,8 +30,9 @@ Caso de Teste 03 - Adicionar Produto no Carrinho
     Digitar o nome do produto "Xbox Series S" no campo de pesquisa
     Clicar no botão de pesquisa
     Verificar o resultado da pesquisa se está listando o produto "Xbox Series S"
-    Adicionar o produto "Console Xbox Series S" no carrinho
-    Verificar se o produto "Console Xbox Series S" foi adicionado com sucesso
+    Adicionar o produto "Xbox Series S" no carrinho
+    Recusar garantia se oferecida
+    Verificar se o produto foi adicionado com sucesso no carrinho
      
 Caso de Teste 04 - Remover Produto do Carrinho
     [Documentation]    Esse teste verifica a remoção de um produto no carrinho de compras
@@ -40,7 +41,9 @@ Caso de Teste 04 - Remover Produto do Carrinho
     Digitar o nome do produto "Xbox Series S" no campo de pesquisa
     Clicar no botão de pesquisa
     Verificar o resultado da pesquisa se está listando o produto "Console Xbox Series S"
-    Adicionar o produto "Console Xbox Series S" no carrinho
-    Verificar se o produto "Console Xbox Series S" foi adicionado com sucesso
-    Remover o produto "Console Xbox Series S" do carrinho
+    Adicionar o produto "Xbox Series S" no carrinho
+    Recusar garantia se oferecida
+    Verificar se o produto foi adicionado com sucesso no carrinho
+    Ir para o carrinho
+    Remover o produto "Xbox Series S" do carrinho
     Verificar se o carrinho fica vazio
