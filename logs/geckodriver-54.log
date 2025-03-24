@@ -1,0 +1,22 @@
+1742826045188	geckodriver	INFO	Listening on 127.0.0.1:64824
+1742826048260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofile7cyXIX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742826048601	Marionette	INFO	Marionette enabled
+1742826048752	Marionette	INFO	Listening on port 64832
+WebDriver BiDi listening on ws://127.0.0.1:64825
+Read port: 64832
+1742826048932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64825/devtools/browser/d4469bc1-3c75-4a59-86a4-5d7fe2da68ad
+JavaScript warning: https://www.amazon.com.br/, line 3526: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6960: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742826055880	Marionette	INFO	Stopped listening on port 64832
+JavaScript warning: https://m.media-amazon.com/images/I/714+3hZjzaL.js, line 2872: Script terminated by timeout at:
+Me@https://m.media-amazon.com/images/I/714+3hZjzaL.js:2872:26
+t</n<@https://m.media-amazon.com/images/I/91-3HIi8UNL.js:27:180607
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

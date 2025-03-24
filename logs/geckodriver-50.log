@@ -1,0 +1,18 @@
+1742824536078	geckodriver	INFO	Listening on 127.0.0.1:64373
+1742824539165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofile2OIaN0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742824539503	Marionette	INFO	Marionette enabled
+1742824539614	Marionette	INFO	Listening on port 64381
+WebDriver BiDi listening on ws://127.0.0.1:64374
+Read port: 64381
+1742824539776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64374/devtools/browser/1bb259a4-b3d9-4341-ab79-e5ad087dadd8
+JavaScript warning: https://www.amazon.com.br/, line 3414: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2UHBPR6IZ10LL&sprefix=%2Caps%2C204&ref=nb_sb_noss, line 7182: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2UHBPR6IZ10LL&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuH318nd_HwDWQ-l-fF9Jq2glVpATizw2KbqQ8Nriq1LtQHLPndpTUWYqGYxEgq2cx81FkVl9Q6nJ5yDqVl2WlTDk8ITorIGi2KfM4HHXpoKHFO0mdBKQNIEgnWiAmdp72OVooUXBDJxlbgUPDo5x413CZw43xpwRa2MbF054BqBAz94WUdjTfZpa_SKpDSQPezRVkza8uVP9PVM0ur4bcU9jnLXsQEMbixn3WWM8LZZhNKCts9KhmN_pQvL0XPV_TAjVtR2CvDTVjLijOo683pk-zewL_lnvOUo-bmsoqsxX.xeaC-oOkmS_jpGoq86JZo84nhsntpOeU-ZyuAwurgZ4&dib_tag=se&keywords=Xbox+Series+S&qid=1742824544&sprefix=%2Caps%2C204&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9017: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742824549129	Marionette	INFO	Stopped listening on port 64381
+Dynamically enable window occlusion 1

@@ -1,0 +1,33 @@
+1742826059117	geckodriver	INFO	Listening on 127.0.0.1:64898
+1742826062213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofileSqcpUh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742826062501	Marionette	INFO	Marionette enabled
+1742826062627	Marionette	INFO	Listening on port 64906
+WebDriver BiDi listening on ws://127.0.0.1:64899
+Read port: 64906
+1742826062805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64899/devtools/browser/923dc79b-a99d-4c5e-9df8-9f855ebef04c
+JavaScript warning: https://www.amazon.com.br/, line 3519: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuH318nd_HwDWQ-l-fF9Jq2g6BSRBwsN4vhitZu3nF-K29SVjLWitDXZpBVtwnvN6OVuJdUileuRloccNx2lT6y55_t4okHA22jAn2yRtPDwHIfClERZHIAy_Kj-2eTg3SOTDTX1saNRt0UeCWqhtw6gbRT4rmcqAxPAF7SLwcSarQTXTN6XT7NSisORAhbdzVYUQ6RdUPGI8ZMN5qw3ue7ID7wgiTkFlKhJIcQC9NGAV5rYCTgB8Meax89yAaNngSa1ac7wQMKaaUZcd_CxxOuh_wD2UxxAzbX9eanyONFud.zd0Tb-abGoy1Tr4Mcz3UzCS5oEzDamJ4Juvx7bFEXjU&dib_tag=se&keywords=Xbox+Series+S&qid=1742826067&sr=8-3&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 8992: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1742826073460	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3332: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742826074402	Marionette	INFO	Stopped listening on port 64906
+JavaScript warning: https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery, line 122: Script terminated by timeout at:
+w@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:122:25
+m@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:127:448
+find@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:132:364
+init@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:36:451
+b@https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery:34:396
+m<@https://m.media-amazon.com/images/I/11zuylp74DL._RC|11Y+5x+kkTL.js,51F3LXOLEtL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21u+kGQyRqL.js,012FVc3131L.js,11aD5q6kNBL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11nAhXzgUmL.js,11dIAzUNpxL.js,1110g-SvlBL.js,116PwN2VXHL.js,21+WA5wfjfL.js,0190vxtlzcL.js,51xvEQZx5oL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,31N+6dLod0L.js,01tvglXfQOL.js,11+FwJUUPNL.js,014gnDeJDsL.js,11vb6P5C5AL.js,015+pUPweLL.js_.js?AUIClients/AmazonUI:495:476
+b@https://m.media-amazon.com/images/I/11zuylp74DL._RC|11Y+5x+kkTL.js,51F3LXOLEtL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21u+kGQyRqL.js,012FVc3131L.js,11aD5q6kNBL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11nAhXzgUmL.js,11dIAzUNpxL.js,1110g-SvlBL.js,116PwN2VXHL.js,21+WA5wfjfL.js,0190vxtlzcL.js,51xvEQZx5oL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,31N+6dLod0L.js,01tvglXfQOL.js,11+FwJUUPNL.js,014gnDeJDsL.js,11vb6P5C5AL.js,015+pUPweLL.js_.js?AUIClients/AmazonUI:495:403
+guardTime/<@https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance:116:69
+f</delay/k<@https://m.media-amazon.com/images/I/11zuylp74DL._RC|11Y+5x+kkTL.js,51F3LXOLEtL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21u+kGQyRqL.js,012FVc3131L.js,11aD5q6kNBL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11nAhXzgUmL.js,11dIAzUNpxL.js,1110g-SvlBL.js,116PwN2VXHL.js,21+WA5wfjfL.js,0190vxtlzcL.js,51xvEQZx5oL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,31N+6dLod0L.js,01tvglXfQOL.js,11+FwJUUPNL.js,014gnDeJDsL.js,11vb6P5C5AL.js,015+pUPweLL.js_.js?AUIClients/AmazonUI:22:268
+M/</<@https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance:112:111
+f</delay/<@https://m.media-amazon.com/images/I/11zuylp74DL._RC|11Y+5x+kkTL.js,51F3LXOLEtL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21u+kGQyRqL.js,012FVc3131L.js,11aD5q6kNBL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11nAhXzgUmL.js,11dIAzUNpxL.js,1110g-SvlBL.js,116PwN2VXHL.js,21+WA5wfjfL.js,0190vxtlzcL.js,51xvEQZx5oL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,31N+6dLod0L.js,01tvglXfQOL.js,11+FwJUUPNL.js,014gnDeJDsL.js,11vb6P5C5AL.js,015+pUPweLL.js_.js?AUIClients/AmazonUI:22:372
+
+Dynamically enable window occlusion 1

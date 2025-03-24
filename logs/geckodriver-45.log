@@ -1,0 +1,55 @@
+1742824132340	geckodriver	INFO	Listening on 127.0.0.1:63703
+1742824135423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofilemoNYQn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742824135796	Marionette	INFO	Marionette enabled
+1742824135926	Marionette	INFO	Listening on port 63711
+Read port: 63711
+WebDriver BiDi listening on ws://127.0.0.1:63704
+1742824135982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63704/devtools/browser/63b67dbe-573f-49f0-b7b2-13cf62b916a3
+JavaScript warning: https://www.amazon.com.br/, line 3417: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7069: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuJ6_rIsTo1Kn0KjWDbTSP2FBDpAA-o6pT9b8b82xeaApQHLPndpTUWYqGYxEgq2cx81FkVl9Q6nJ5yDqVl2WlTDk8ITorIGi2KfM4HHXpoKHFO0mdBKQNIEgnWiAmdp72OVooUXBDJxlbgUPDo5x413CZw43xpwRa2MbF054BqBAz94WUdjTfZpa_SKpDSQPezRVkza8uVP9PVM0ur4bcU9jnLXsQEMbixn3WWM8LZZhCPBhF_gVsiPKn9fjM1aWM7uqsLiO7suF2D0w_zcXh6QB1RMkIXtzfgRD2OMka7Lf.D0qe0XAy3YXv__TbfRhQwpE3ZcPrtVJ9bWfaQBwy7jc&dib_tag=se&keywords=Xbox+Series+S&qid=1742824141&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9257: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3332: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5630: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742824168621	Marionette	INFO	Stopped listening on port 63711
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5631: Script terminated by timeout at:
+A@https://www.amazon.com.br/cart?ref_=sw_gtc:5631:718
+T@https://www.amazon.com.br/cart?ref_=sw_gtc:5631:1172
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"validateCollectionSignature","sourceId":22,"lineNumber":1023,"columnNumber":47,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"maybeSync","sourceId":22,"lineNumber":740,"columnNumber":26,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:740:26\n","nativeSavedFrame":{}},"formattedStack":"validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:740:26\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:740:26\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:740:26\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:740:26\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47|maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:740:26|
+  - prototype Object
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/remote-permissions sync interrupted by shutdown
+console.warn: services.settings: main/search-categorization sync interrupted by shutdown
+console.warn: services.settings: main/third-party-cookie-blocking-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/urlbar-persisted-search-terms sync interrupted by shutdown
+console.warn: services.settings: main/search-config-icons sync interrupted by shutdown
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/search-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

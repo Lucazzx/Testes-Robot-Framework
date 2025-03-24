@@ -1,0 +1,21 @@
+1742826029853	geckodriver	INFO	Listening on 127.0.0.1:64746
+1742826032964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofileJy8iwJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742826033280	Marionette	INFO	Marionette enabled
+1742826033395	Marionette	INFO	Listening on port 64754
+WebDriver BiDi listening on ws://127.0.0.1:64747
+Read port: 64754
+1742826033555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64747/devtools/browser/cc28f538-651d-4359-8c0f-6dec2df5ca20
+JavaScript warning: https://www.amazon.com.br/, line 3425: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5686: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742826041825	Marionette	INFO	Stopped listening on port 64754
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5621: Script terminated by timeout at:
+y@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:5621:364
+buildPayload@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:5625:446
+B@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:5620:134
+m@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:5620:465
+
+Dynamically enable window occlusion 1

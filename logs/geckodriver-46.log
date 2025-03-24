@@ -1,0 +1,97 @@
+1742824217454	geckodriver	INFO	Listening on 127.0.0.1:63835
+1742824220537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofile94nRs4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742824220807	Marionette	INFO	Marionette enabled
+1742824220914	Marionette	INFO	Listening on port 63845
+WebDriver BiDi listening on ws://127.0.0.1:63836
+Read port: 63845
+1742824221082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63836/devtools/browser/00dc3036-ad3e-412b-8d34-0db5d3ba58fe
+JavaScript warning: https://www.amazon.com.br/, line 3417: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuJ6_rIsTo1Kn0KjWDbTSP2FBDpAA-o6pT9b8b82xeaApQHLPndpTUWYqGYxEgq2cx81FkVl9Q6nJ5yDqVl2WlTDk8ITorIGi2KfM4HHXpoKHteJklCVrXQdSsvLbK7NLxjOzTvNUgpbHnOlghn9CK8TCZw43xpwRa2MbF054BqBAEy0Glw-DZ8MxnLjFDD8xroUQ6RdUPGI8ZMN5qw3ue7KDWjoYb107iAvqoddMMi9V58VMumP9ovSQ0k0CEeHE3em4eqBfZrCpGiz2_yrJgif8cVfslEiaO5BTudb9Dw7O.XnL9TY4w90xizUXMTxWOwUgf6lF2Ldbp4y9Vbx4V8kg&dib_tag=se&keywords=Xbox+Series+S&qid=1742824225&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9238: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements7399.js, line 2: Script terminated by timeout at:
+get@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7399.js:2:345463
+3384/handlePersistedEvent/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7399.js:2:310190
+
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3355: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5637: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742824253173	Marionette	INFO	Stopped listening on port 63845
+JavaScript warning: https://www.amazon.com.br/cart?ref_=sw_gtc, line 5638: Script terminated by timeout at:
+A@https://www.amazon.com.br/cart?ref_=sw_gtc:5638:748
+T@https://www.amazon.com.br/cart?ref_=sw_gtc:5638:1172
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no]
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"validateCollectionSignature","sourceId":22,"lineNumber":1023,"columnNumber":47,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"_importChanges","sourceId":22,"lineNumber":1102,"columnNumber":20,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1102:20\n","nativeSavedFrame":{}},"formattedStack":"validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1102:20\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1102:20\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1102:20\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1102:20\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1023:47|_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1102:20|
+  - prototype Object
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.error: "Could not download new icon" ({})
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: ({details:{id:"e80aaa02-f8ae-a788-8426-059a8c4fcd2e", last_modified:1688747728721, bucket:"main", collection:"addons-manager-settings", host:"firefox.settings.services.mozilla.com"}})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})

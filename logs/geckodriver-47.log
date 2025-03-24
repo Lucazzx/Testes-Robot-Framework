@@ -1,0 +1,16 @@
+1742824328016	geckodriver	INFO	Listening on 127.0.0.1:63958
+1742824331094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofile02bYQk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742824331377	Marionette	INFO	Marionette enabled
+1742824331488	Marionette	INFO	Listening on port 63966
+WebDriver BiDi listening on ws://127.0.0.1:63959
+Read port: 63966
+1742824331648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63959/devtools/browser/64997b39-6e7f-4cab-ac2c-6e7b0aebca61
+JavaScript warning: https://www.amazon.com.br/, line 3519: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s/ref=nb_sb_noss?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Xbox+Series+S, line 7092: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuH318nd_HwDWQ-l-fF9Jq2glVpATizw2KbqQ8Nriq1LtQHLPndpTUWYqGYxEgq2cx81FkVl9Q6nJ5yDqVl2WlTDk8ITorIGi2KfM4HHXpoKHFO0mdBKQNIEgnWiAmdp72OVooUXBDJxlbgUPDo5x413CZw43xpwRa2MbF054BqBAz94WUdjTfZpa_SKpDSQPezRVkza8uVP9PVM0ur4bcU9jnLXsQEMbixn3WWM8LZZhoVLf5kk8pYssW7aZjjCSDWtfWi5A35GkCymcH827_nI-zewL_lnvOUo-bmsoqsxX.QiES5UJdLDvPtawdTh_9cJTQByVcSs7TJIA1Bc9QfIM&dib_tag=se&keywords=Xbox+Series+S&qid=1742824336&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9017: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742824342362	Marionette	INFO	Stopped listening on port 63966
+Dynamically enable window occlusion 1

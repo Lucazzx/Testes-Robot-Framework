@@ -1,0 +1,30 @@
+1742823787537	geckodriver	INFO	Listening on 127.0.0.1:63492
+1742823790614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofilewkQwju"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742823790944	Marionette	INFO	Marionette enabled
+1742823791114	Marionette	INFO	Listening on port 63500
+Read port: 63500
+WebDriver BiDi listening on ws://127.0.0.1:63493
+1742823791188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63493/devtools/browser/0d315987-2977-4592-9b95-abd29463357c
+JavaScript warning: https://www.amazon.com.br/, line 3532: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CYOCLRMHR6LF&sprefix=%2Caps%2C235&ref=nb_sb_noss, line 7070: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CYOCLRMHR6LF&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuJ6_rIsTo1Kn0KjWDbTSP2EI3qtK-iVky2od0DhV-GNk9SVjLWitDXZpBVtwnvN6ORMN5OO0C7iD6_XKrGls40swgkxNPSKzF2S_9XCTg6Liu8wTl-cLPPyvqWc60h7_Ze-ivAgdkpwIcB5_puAYXnaFFBxtIFESqa4GwlI2Kri9z4r92IwuoI2huojr-Jx3jp09dgCFFTFTL92XM81VwIDy8_YFOXqDOoJr5GQEsHvnN9MUbda-93T6JhcECGCDYmsscmd08_d0NOFFyok9p-R_wD2UxxAzbX9eanyONFud.mLlThdSrFj5ZBsJ_030sYEXbWAVlHuTrBRCOpv5upRk&dib_tag=se&keywords=Xbox+Series+S&qid=1742823796&sprefix=%2Caps%2C235&sr=8-2&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 8818: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742823801023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+JavaScript warning: https://www.amazon.com.br/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742823822176	Marionette	INFO	Stopped listening on port 63500
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/remote-permissions sync interrupted by shutdown
+console.warn: services.settings: main/search-categorization sync interrupted by shutdown
+console.warn: services.settings: main/third-party-cookie-blocking-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/urlbar-persisted-search-terms sync interrupted by shutdown
+console.warn: services.settings: main/search-config-icons sync interrupted by shutdown
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/newtab-wallpapers getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

@@ -1,0 +1,25 @@
+1742825361049	geckodriver	INFO	Listening on 127.0.0.1:64530
+1742825364121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofilePcePeX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742825364427	Marionette	INFO	Marionette enabled
+1742825364563	Marionette	INFO	Listening on port 64541
+WebDriver BiDi listening on ws://127.0.0.1:64531
+Read port: 64541
+1742825364771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64531/devtools/browser/623b6539-6308-469a-98d6-fee4f4922fb9
+JavaScript warning: https://www.amazon.com.br/, line 3410: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7158: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuH318nd_HwDWQ-l-fF9Jq2g6BSRBwsN4vhitZu3nF-K29SVjLWitDXZpBVtwnvN6ORMN5OO0C7iD6_XKrGls40swgkxNPSKzF2S_9XCTg6Liu8wTl-cLPPyvqWc60h7_Ze-ivAgdkpwIcB5_puAYXnaFFBxtIFESqa4GwlI2Kri9z4r92IwuoI2huojr-Jx3joyt5Sv2PxZDXUFKC8FEn9RgAS_h_2-YgcQX9fjs5QIUL6bHNIvOQP6geNcmUNrn1JbVjjftJh7uIsWYurH1cs4-zewL_lnvOUo-bmsoqsxX.vzfB_Rb0HJtBLVz6Y0hs-6BQk6gv3C2YKwTbMgHPr0s&dib_tag=se&keywords=Xbox+Series+S&qid=1742825369&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 9070: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742825374216	Marionette	INFO	Stopped listening on port 64541
+JavaScript warning: https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuH318nd_HwDWQ-l-fF9Jq2g6BSRBwsN4vhitZu3nF-K29SVjLWitDXZpBVtwnvN6ORMN5OO0C7iD6_XKrGls40swgkxNPSKzF2S_9XCTg6Liu8wTl-cLPPyvqWc60h7_Ze-ivAgdkpwIcB5_puAYXnaFFBxtIFESqa4GwlI2Kri9z4r92IwuoI2huojr-Jx3joyt5Sv2PxZDXUFKC8FEn9RgAS_h_2-YgcQX9fjs5QIUL6bHNIvOQP6geNcmUNrn1JbVjjftJh7uIsWYurH1cs4-zewL_lnvOUo-bmsoqsxX.vzfB_Rb0HJtBLVz6Y0hs-6BQk6gv3C2YKwTbMgHPr0s&dib_tag=se&keywords=Xbox+Series+S&qid=1742825369&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e, line 116: Script terminated by timeout at:
+P/</<@https://www.amazon.com.br/Microsoft-RRS-00001-Xbox-Series-S/dp/B08G9J44ZN/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.GyKRq1t-ImRc1eNckjQrkK8qek79W0o7MN14RJc3Dk6pcE262QHv7PAMV0E1TRoHleUaQ2LUsOyfB-R_G-0bMAMrBtV13HIzhP6ZkJw6KzmQlFCij1efkmsT_x3RCIbFI-_ATuZYR37LMhKCpd-QuH318nd_HwDWQ-l-fF9Jq2g6BSRBwsN4vhitZu3nF-K29SVjLWitDXZpBVtwnvN6ORMN5OO0C7iD6_XKrGls40swgkxNPSKzF2S_9XCTg6Liu8wTl-cLPPyvqWc60h7_Ze-ivAgdkpwIcB5_puAYXnaFFBxtIFESqa4GwlI2Kri9z4r92IwuoI2huojr-Jx3joyt5Sv2PxZDXUFKC8FEn9RgAS_h_2-YgcQX9fjs5QIUL6bHNIvOQP6geNcmUNrn1JbVjjftJh7uIsWYurH1cs4-zewL_lnvOUo-bmsoqsxX.vzfB_Rb0HJtBLVz6Y0hs-6BQk6gv3C2YKwTbMgHPr0s&dib_tag=se&keywords=Xbox+Series+S&qid=1742825369&sr=8-6&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e:116:151
+x@https://m.media-amazon.com/images/I/11zuylp74DL._RC|11Y+5x+kkTL.js,51F3LXOLEtL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21u+kGQyRqL.js,012FVc3131L.js,11aD5q6kNBL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11nAhXzgUmL.js,11dIAzUNpxL.js,1110g-SvlBL.js,116PwN2VXHL.js,21+WA5wfjfL.js,0190vxtlzcL.js,51xvEQZx5oL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,31N+6dLod0L.js,01tvglXfQOL.js,11+FwJUUPNL.js,014gnDeJDsL.js,11vb6P5C5AL.js,015+pUPweLL.js_.js?AUIClients/AmazonUI:22:43
+
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements7399.js, line 2: Script terminated by timeout at:
+2478/runSafelyWhenInvoked/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7399.js:2:255013
+
+Dynamically enable window occlusion 1

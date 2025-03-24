@@ -1,0 +1,19 @@
+1742823561289	geckodriver	INFO	Listening on 127.0.0.1:63075
+1742823564383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofileKrDRXl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742823564891	Marionette	INFO	Marionette enabled
+1742823565020	Marionette	INFO	Listening on port 63083
+WebDriver BiDi listening on ws://127.0.0.1:63076
+Read port: 63083
+1742823565188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63076/devtools/browser/887228e6-9a32-4405-909d-a3ed2c6ae50b
+JavaScript warning: https://www.amazon.com.br/, line 3413: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6960: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742823571403	Marionette	INFO	Stopped listening on port 63083
+JavaScript warning: https://www.amazon.com.br/s/ref=nb_sb_noss?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Xbox+Series+S, line 273: Script terminated by timeout at:
+B@https://www.amazon.com.br/s/ref=nb_sb_noss?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Xbox+Series+S:273:214
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

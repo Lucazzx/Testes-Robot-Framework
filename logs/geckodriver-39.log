@@ -1,0 +1,19 @@
+1742823645807	geckodriver	INFO	Listening on 127.0.0.1:63162
+1742823648896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOUXGR~1\\AppData\\Local\\Temp\\rust_mozprofilenoovR8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1742823649185	Marionette	INFO	Marionette enabled
+1742823649307	Marionette	INFO	Listening on port 63171
+WebDriver BiDi listening on ws://127.0.0.1:63163
+Read port: 63171
+1742823649582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63163/devtools/browser/9808e925-f99d-41b3-a0e0-9f83c4447776
+JavaScript warning: https://www.amazon.com.br/, line 3523: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Console+Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7159: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1742823656689	Marionette	INFO	Stopped listening on port 63171
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/11TeK6RO9OL._RC|31PhtfzE1FL.js,31Y5AkqmNvL.js,01WtpFkF58L.js,31iwW+jW1VL.js,41STYmgYJcL.js,41XxFzvOtjL.js,01r1r3sVlxL.js,21FYCfNs2aL.js,019dBqWurRL.js,11SnpH5CbIL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11Exu1nsH7L.js,01b82LFIRTL.js,11UyW+59ZyL.js,015CwW0puPL.js,21wGrqBcFlL.js,0164lSJukTL.js,219jZMsEOWL.js,318wG7-Wo+L.js,01FA0ZefFJL.js,01M+YAkWjvL.js_.js?AUIClients/SearchAssets#1124410-T1.1161841-T1.964665-T1.1168384-C, line 33: Script terminated by timeout at:
+G@https://images-na.ssl-images-amazon.com/images/I/11TeK6RO9OL._RC|31PhtfzE1FL.js,31Y5AkqmNvL.js,01WtpFkF58L.js,31iwW+jW1VL.js,41STYmgYJcL.js,41XxFzvOtjL.js,01r1r3sVlxL.js,21FYCfNs2aL.js,019dBqWurRL.js,11SnpH5CbIL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11Exu1nsH7L.js,01b82LFIRTL.js,11UyW+59ZyL.js,015CwW0puPL.js,21wGrqBcFlL.js,0164lSJukTL.js,219jZMsEOWL.js,318wG7-Wo+L.js,01FA0ZefFJL.js,01M+YAkWjvL.js_.js?AUIClients/SearchAssets#1124410-T1.1161841-T1.964665-T1.1168384-C:33:442
+aa/H<@https://images-na.ssl-images-amazon.com/images/I/11TeK6RO9OL._RC|31PhtfzE1FL.js,31Y5AkqmNvL.js,01WtpFkF58L.js,31iwW+jW1VL.js,41STYmgYJcL.js,41XxFzvOtjL.js,01r1r3sVlxL.js,21FYCfNs2aL.js,019dBqWurRL.js,11SnpH5CbIL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11Exu1nsH7L.js,01b82LFIRTL.js,11UyW+59ZyL.js,015CwW0puPL.js,21wGrqBcFlL.js,0164lSJukTL.js,219jZMsEOWL.js,318wG7-Wo+L.js,01FA0ZefFJL.js,01M+YAkWjvL.js_.js?AUIClients/SearchAssets#1124410-T1.1161841-T1.964665-T1.1168384-C:34:233
+
+Dynamically enable window occlusion 1
